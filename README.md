@@ -1,16 +1,13 @@
-## Hi there 👋
+# О себе: 
+Python Developer.
+Ищу компанию в которой смогу продолжать развиваться в данной сфере, находить лучшие решения для проектов, совершенствоваться в создании масштабируемых, высокопроизводительных и безопасных приложений.
 
-<!--
-**Ark9119/Ark9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек:
+•	Python 3
+•	Pytest
+•	Django Framework, Django Rest Framework
+•	Docker
+•	система контроля версий GIT
+•	Flask
+•	TELEBOT, Aiogram
+•	SQL (PostgreSQL, mySQL3)
