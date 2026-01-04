@@ -8,13 +8,11 @@ Python Developer.
 
 •	Pytest
 
-•	Django Framework, Django Rest Framework
+•	Django Framework, Django Rest Framework, Flask, FastAPI
 
 •	Docker
 
 •	система контроля версий GIT
-
-•	Flask
 
 •	TELEBOT, Aiogram
 
